@@ -86,5 +86,28 @@ services/api.js
 
 👨‍💻 Author
 Subodh Sigdel
-GitHub: https://github.com/subodhsig
----# 🔥 Why this is powerful (for UNDP / AI internships)These READMEs now show:✔ AI research understanding (U-Net + GAN explained clearly)  ✔ Full-stack AI system thinking  ✔ Real deployment mindset (API + frontend separation)  ✔ Clean documentation (very important for recruiters)  ✔ Professional communication skills  ---# 🚀 If you want next upgrade (HIGH IMPACT)I can still help you improve further:- 🧠 Add **architecture diagram (very powerful for AI roles)**- 📄 Convert this into **research paper format (UNDP loves this)**- 🌐 Build a **portfolio website using these projects**- ✍️ Write **UNDP cover letter (this is CRITICAL for selection)**Just tell me 👍
+
+---
+
+# 🔥 Why this is powerful (for UNDP / AI internships)
+
+These READMEs now show:
+
+✔ AI research understanding (U-Net + GAN explained clearly)  
+✔ Full-stack AI system thinking  
+✔ Real deployment mindset (API + frontend separation)  
+✔ Clean documentation (very important for recruiters)  
+✔ Professional communication skills  
+
+---
+
+# 🚀 If you want next upgrade (HIGH IMPACT)
+
+I can still help you improve further:
+
+- 🧠 Add **architecture diagram (very powerful for AI roles)**
+- 📄 Convert this into **research paper format (UNDP loves this)**
+- 🌐 Build a **portfolio website using these projects**
+- ✍️ Write **UNDP cover letter (this is CRITICAL for selection)**
+
+Just tell me 👍
